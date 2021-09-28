@@ -1,3 +1,3 @@
 # talking-nonsense
 
-![talking nonsense pic](https://writecards.github.com/talking-nonsense/talking-nonsense-big-text.png)
+![screenshot](https://github.com/writecards/talking-nonsense/blob/main/talking-nonsense-big-text.png)
